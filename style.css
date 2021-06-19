@@ -1,0 +1,26 @@
+main{
+  border: black solid 3px;
+}
+
+.items{
+  border-radius: 10px;
+  border: black solid 2px;
+  display: flex;
+  justify-content: space-between;
+}
+.position-right{
+  margin-right: 10px;
+}
+.addItems{
+    display: flex;
+    justify-content: space-between;
+}
+#delete{
+  color: red;
+  background-color: black;
+  height: 40px;
+  border-radius: 10px;
+}
+.hidden{
+  display: none;
+}
